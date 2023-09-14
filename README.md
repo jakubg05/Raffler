@@ -1,5 +1,5 @@
 # Raffler
-A simple proof of concept for an app for raffling students. 
+A simple <b><i>proof of concept</i></b> for an app for raffling students. 
 The raffler has an option to choose completely at random but you can also influence the chance of an individual student getting picked by the raffler.
 
 - only a demo
@@ -10,5 +10,5 @@ removing students from the raffle once they have been raffled
 
 - I may also add an option to select a class of students
 
-You will have to pip install matplotlib.
+<b><i> | You will have to pip install matplotlib. |</i></b></br>
 The .pkl file stores the student data. If You wish to remove all the students delete the .pkl file. If you made a typo in a student's name there is currently no way to change it so you will also have to delete the .pkl file and start over.
