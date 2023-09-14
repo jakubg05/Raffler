@@ -1,5 +1,5 @@
 # Raffler
-A simple proof of concept for an app for raffling (not so) random students. 
+A simple proof of concept for an app for raffling students. 
 The raffler has an option to choose completely at random but you can also influence the chance of an individual student getting picked by the raffler.
 
 - only a demo
